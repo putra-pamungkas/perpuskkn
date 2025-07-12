@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "title": "Laskar Pelangi",
+        "author": "Andrea Hirata",
+        "publisher": "Bentang Pustaka",
+        "year": "2005",
+        "description": "Kisah inspiratif tentang sekelompok anak dari Belitung yang penuh semangat belajar.",
+        "cover": "uploads\/laskar_pelangi.jpg",
+        "status": "borrowed",
+        "stock": 1
+    },
+    {
+        "id": 2,
+        "title": "Negeri 5 Menara",
+        "author": "Ahmad Fuadi",
+        "publisher": "Gramedia Pustaka Utama",
+        "year": "2009",
+        "description": "Perjuangan seorang anak pondok pesantren yang bermimpi besar dari bawah menara.",
+        "cover": "uploads\/negeri_5_menara.jpg",
+        "status": "available",
+        "stock": 1
+    },
+    {
+        "id": 3,
+        "title": "Bumi",
+        "author": "Tere Liye",
+        "publisher": "Gramedia",
+        "year": "2014",
+        "description": "Petualangan fantastis anak-anak yang memiliki kekuatan khusus dari dunia paralel.",
+        "cover": "uploads\/bumi.jpg",
+        "status": "borrowed",
+        "stock": 0
+    },
+    {
+        "id": 4,
+        "title": "Dilan: Dia adalah Dilanku Tahun 1990",
+        "author": "Pidi Baiq",
+        "publisher": "Pastel Books",
+        "year": "2014",
+        "description": "Romansa remaja SMA di Bandung antara Dilan dan Milea yang jenaka dan menyentuh.",
+        "cover": "uploads\/dilan.jpg",
+        "status": "borrowed",
+        "stock": 0
+    },
+    {
+        "id": 5,
+        "title": "Ayat-Ayat Cinta",
+        "author": "Habiburrahman El Shirazy",
+        "publisher": "Republika",
+        "year": "2004",
+        "description": "Cinta dan nilai-nilai Islam dalam latar belakang kehidupan mahasiswa di Mesir.",
+        "cover": "uploads\/ayat_ayat_cinta.jpg",
+        "status": "available",
+        "stock": 1
+    },
+    {
+        "id": "6872203f9ca22",
+        "title": "book1",
+        "author": "author1",
+        "publisher": "publisher1",
+        "year": "2025",
+        "description": "description",
+        "cover": "uploads\/6872203f9b55d.jpg",
+        "status": "borrowed",
+        "stock": 0
+    }
+]
